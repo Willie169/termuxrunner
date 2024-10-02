@@ -1,0 +1,4 @@
+#Wed Oct 02 10:49:37 GMT 2024
+base.0=/storage/emulated/0/AndroidIDEProjects/termuxrunner/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
