@@ -1,5 +1,7 @@
 # termuxrunner
-termuxrunner is an Android app that serves as an alternative frontend for Termux.
+
+termuxrunner is an Android app that serves as an alternative frontend for [Termux]((https://github.com/termux/termux-app) that ignores output for simplicity.
+
 ## Installation
 <!-- [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.svg" alt="Get it on F-Droid" height="80">](https://f-droid.org/packages/com.willie.termuxrunner) -->
 [<img src="https://github.com/Kunzisoft/Github-badge/raw/main/get-it-on-github.svg" alt="Get it on GitHub" height="80">](https://raw.githubusercontent.com/Willie169/termuxrunner/main/com.willie.termuxrunner_1.0.apk)
